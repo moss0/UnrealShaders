@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2317919/Documents/GitHub/UnrealShaders/UnrealShadersProject/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset",
+				"C:/Users/2317919/Documents/GitHub/UnrealShaders/UnrealShadersProject/Content/Materials/MM_Water.uasset"
+			]
+		}
+	]
+}
